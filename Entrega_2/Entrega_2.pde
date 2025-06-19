@@ -1,3 +1,8 @@
+//Camila García Olarte
+//E2: Repetición
+
+//Se crea una variable de incrementar para que cada forma quede de tamaño diferente
+//y se desplacen de forma diferente
 int incre=50;
 int incre_2=30;
 int incre_3=30;
